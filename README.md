@@ -21,14 +21,14 @@
 	</strong>
 	 since 2015 with a lot of smart people. We are maintaining Ehcache and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
 </p>
-<p style="text-align: center;">
+<div style="text-align: center;">
 	<a href="https://github.com/SoftwareAG" target="_blank" rel="noopener">
 		<img src="https://www.softwareag.com/content/dam/softwareag/global/image/logos/sag/software-ag-logo-core-dark-opt.svg" height="40px" />
 	</a>
 	<a href="https://github.com/Terracotta-OSS" target="_blank" rel="noopener">
 		<img src="https://www.terracotta.org/images/Terracotta_Logo_sm.png" height="40px" />
 	</a>
-</p>
+</div>
 <p style="text-align: justify;">
 	Boostraped the
 	<strong>
