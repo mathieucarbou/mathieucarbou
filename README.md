@@ -24,7 +24,7 @@ Creator and maintainer of several **[Open Source projects](https://code.mathieu.
 
 Proud father of two awesome kids who are challenging my time, but still let me push some code 😁
 
-![](https://github-readme-stats.vercel.app/api?username=mathieucarbou&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
+[![](https://github-readme-stats.vercel.app/api?username=mathieucarbou&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)](https://github.com/mathieucarbou/)
 
 ### Places where you can find me:
 
