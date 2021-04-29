@@ -4,7 +4,7 @@
 <p align="justify">
 	Currently working at
 	<strong>
-		<a href="https://github.com/SoftwareAG" target="_blank" rel="noopener">
+		<a href="https://github.com/SoftwareAG" target="_blank">
 			 Software AG
 		</a>
 	</strong>
