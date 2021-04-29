@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="text-align:center;"><img src="https://www.softwareag.com/content/dam/softwareag/global/image/logos/sag/software-ag-logo-core-dark-opt.svg" height="40px"> <img src="https://www.terracotta.org/images/Terracotta_Logo_sm.png" height="40px"></div>
+<img src="https://www.softwareag.com/content/dam/softwareag/global/image/logos/sag/software-ag-logo-core-dark-opt.svg" height="40px"> <img src="https://www.terracotta.org/images/Terracotta_Logo_sm.png" height="40px">
 
 Currently working at **[Software AG](https://github.com/SoftwareAG)** as a **Lead Software Engineer** in the **[Terracotta](https://github.com/Terracotta-OSS) R&D team** since 2015 with a lot of smart people. We are maintaining Ehcache and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
 
