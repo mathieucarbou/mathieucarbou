@@ -2,7 +2,8 @@
 
 Currently working at **[Software AG](https://github.com/SoftwareAG)** as a **Lead Software Engineer** in the **[Terracotta](https://github.com/Terracotta-OSS) R&D team** since 2015 with a lot of smart people. We are maintaining Ehcache and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
 
-> <img src="https://www.softwareag.com/content/dam/softwareag/global/image/logos/sag/software-ag-logo-core-dark-opt.svg" height="40px"> <img src="https://www.terracotta.org/images/Terracotta_Logo_sm.png" height="40px">
+> [<img src="https://www.softwareag.com/content/dam/softwareag/global/image/logos/sag/software-ag-logo-core-dark-opt.svg" height="40px">]((https://github.com/SoftwareAG))
+> [<img src="https://www.terracotta.org/images/Terracotta_Logo_sm.png" height="40px">](https://github.com/Terracotta-OSS)
 
 Boostraped the **[Montreal Java User Group](https://www.montreal-jug.org/)** in 2010. We are now one of the biggest JUG over the world. My active involvement is ending in 2021 but I am still there on the background to help.
 
