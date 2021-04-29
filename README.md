@@ -84,7 +84,7 @@
 	 like the famous Maven License Plugin, and a lot of Google Guice plugins, and I contribute everywhere I can (i.e. MIDI2LR, rclone, redisson, scoop, npm, etc).
 </p>
 <p align="center">
-	<a href="https://avatars.githubusercontent.com/u/4968812?s=200&amp;v=4">
+	<a href="https://code.mathieu.photography/">
 		<img src="https://avatars.githubusercontent.com/u/4968812?s=200&amp;v=4" height="40px" />
 	</a>
 </p>
