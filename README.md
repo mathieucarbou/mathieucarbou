@@ -58,10 +58,7 @@
 	</a>
 </p>
 <p align="justify">
-	<strong>
-		 Enthusiast photographer...
-	</strong>
-	 I love photography! Feel free to visit my
+	 Enthusiast photographer... I love photography! Feel free to visit my
 	<strong>
 		<a href="https://www.mathieu.photography/">
 			 Photography Website.
