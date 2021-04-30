@@ -61,7 +61,7 @@
 	<strong>
 		 Enthusiast photographer...
 	</strong>
-	 I love photography! Feel free to jump on my
+	 I love photography! Feel free to visit my
 	<strong>
 		<a href="https://www.mathieu.photography/">
 			 Photography Website.
