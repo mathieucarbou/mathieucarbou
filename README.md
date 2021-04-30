@@ -19,7 +19,7 @@
 		</a>
 		 R&amp;D team
 	</strong>
-	 since 2015 with a lot of smart people. We are maintaining Ehcache and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
+	 since 2015 with a lot of smart people. We are developing and maintaining Ehcache and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
 </p>
 <p align="center">
 	<a href="https://github.com/SoftwareAG">
