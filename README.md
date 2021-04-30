@@ -59,7 +59,7 @@
 </p>
 <p align="justify">
 	<strong>
-		 Entousiast photographer
+		 Enthusiast photographer
 	</strong>
 	 .... I love photography! Feel free to jump on my
 	<strong>
@@ -67,7 +67,7 @@
 			 Photography Website
 		</a>
 	</strong>
-	 . I wrote several articles regarding neutral density filters, infrared pghotography and I am sometimes reviewing gear for some companies.
+	 . I wrote several articles regarding neutral density filters, infrared photography and I am sometimes reviewing gear for some companies.
 </p>
 <p align="center">
 	<a href="https://www.mathieu.photography/">
