@@ -89,11 +89,10 @@
 	</a>
 </p>
 <p align="justify">
-	Proud
 	<strong>
-		 father
+		 Father
 	</strong>
-	 of two awesome kids who are challenging my time, but still let me push some code&nbsp;😁
+	 of two awesome kids who are challenging my spare time but still let me push some code&nbsp;😁
 </p>
 <p align="center">
 	<a href="https://github.com/mathieucarbou/">
