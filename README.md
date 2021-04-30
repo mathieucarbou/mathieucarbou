@@ -97,7 +97,7 @@
 	</a>
 </p>
 <h3 align="justify">
-	Places where you can find me:
+	You can find me there:
 </h3>
 <ul align="justify">
 	<li>
