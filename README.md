@@ -101,42 +101,42 @@
 </h3>
 <ul align="justify">
 	<li>
-		<a href="https://github.com/mathieucarbou/">
+		<a href="https://github.com/mathieucarbou/" target="_blank">
 			<img src="https://img.shields.io/badge/github-mathieucarbou-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://code.mathieu.carbou.me">
+		<a href="https://code.mathieu.carbou.me" target="_blank">
 			<img src="https://img.shields.io/badge/github-OSS%20projects-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://www.linkedin.com/in/mathieucarbou/">
+		<a href="https://www.linkedin.com/in/mathieucarbou/" target="_blank">
 			<img src="https://img.shields.io/badge/linkedin-mathieucarbou-0072B1?logo=linkedin&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://twitter.com/mathieucarbou">
+		<a href="https://twitter.com/mathieucarbou" target="_blank">
 			<img src="https://img.shields.io/badge/twitter-mathieucarbou-4ea6e9?logo=linkedin&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://blog.mathieu.carbou.me/">
+		<a href="https://blog.mathieu.carbou.me/" target="_blank">
 			<img src="https://img.shields.io/badge/tumblr-blog.mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://montrealjug.slack.com/">
+		<a href="https://montrealjug.slack.com/" target="_blank">
 			<img src="https://img.shields.io/badge/slack-montrealjug-50154f?logo=slack&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://www.mathieu.photography/">
+		<a href="https://www.mathieu.photography/" target="_blank">
 			<img src="https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
-		<a href="https://www.instagram.com/mathieucarbou/">
+		<a href="https://www.instagram.com/mathieucarbou/" target="_blank">
 			<img src="https://img.shields.io/badge/instagram-mathieucarbou-c7245e?logo=instagram&amp;style=flat-square" />
 		</a>
 	</li>
