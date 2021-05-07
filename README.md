@@ -117,7 +117,7 @@
 	</li>
 	<li>
 		<a href="https://twitter.com/mathieucarbou" target="_blank">
-			<img src="https://img.shields.io/badge/twitter-mathieucarbou-4ea6e9?logo=linkedin&amp;style=flat-square" />
+			<img src="https://img.shields.io/badge/twitter-mathieucarbou-4ea6e9?logo=twitter&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
