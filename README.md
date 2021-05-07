@@ -106,6 +106,11 @@
 		</a>
 	</li>
 	<li>
+		<a href="https://code.mathieu.carbou.me">
+			<img src="https://img.shields.io/badge/github-OSS-projects-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
+		</a>
+	</li>
+	<li>
 		<a href="https://www.linkedin.com/in/mathieucarbou/">
 			<img src="https://img.shields.io/badge/linkedin-mathieucarbou-0072B1?logo=linkedin&amp;style=flat-square" />
 		</a>
@@ -116,6 +121,11 @@
 		</a>
 	</li>
 	<li>
+		<a href="https://blog.mathieu.carbou.me/">
+			<img src="https://img.shields.io/badge/tumblr-blog.mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
+		</a>
+	</li>
+	<li>
 		<a href="https://montrealjug.slack.com/">
 			<img src="https://img.shields.io/badge/slack-montrealjug-50154f?logo=slack&amp;style=flat-square" />
 		</a>
@@ -123,11 +133,6 @@
 	<li>
 		<a href="https://www.mathieu.photography/">
 			<img src="https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&amp;logoColor=white&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://blog.mathieu.carbou.me/">
-			<img src="https://img.shields.io/badge/tumblr-blog.mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
