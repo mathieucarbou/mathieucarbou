@@ -107,7 +107,7 @@
 	</li>
 	<li>
 		<a href="https://code.mathieu.carbou.me">
-			<img src="https://img.shields.io/badge/github-OSS-projects-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
+			<img src="https://img.shields.io/badge/github-OSS%20projects-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
