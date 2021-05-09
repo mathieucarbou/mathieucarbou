@@ -121,8 +121,8 @@
 		</a>
 	</li>
 	<li>
-		<a href="https://blog.mathieu.carbou.me/" target="_blank">
-			<img src="https://img.shields.io/badge/tumblr-blog.mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
+		<a href="https://mathieu.carbou.me/" target="_blank">
+			<img src="https://img.shields.io/badge/tumblr-mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
