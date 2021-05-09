@@ -107,7 +107,7 @@
 	</li>
 	<li>
 		<a href="https://mycila.carbou.me" target="_blank">
-			<img src="https://img.shields.io/badge/github-mycila%20projects-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
+			<img src="https://img.shields.io/badge/github-mycila-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
