@@ -126,11 +126,6 @@
 		</a>
 	</li>
 	<li>
-		<a href="https://montrealjug.slack.com/" target="_blank">
-			<img src="https://img.shields.io/badge/slack-montrealjug-50154f?logo=slack&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
 		<a href="https://www.mathieu.photography/" target="_blank">
 			<img src="https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&amp;logoColor=white&amp;style=flat-square" />
 		</a>
