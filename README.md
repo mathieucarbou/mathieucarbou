@@ -44,7 +44,7 @@
 	</a>
 </p>
 <p align="justify">
-	Active organizer of the
+	Former organizer of the
 	<strong>
 		<a href="http://www.devoxx4kids.org/quebec/">
 			 Devoxx4Kids Quebec
