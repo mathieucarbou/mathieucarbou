@@ -125,4 +125,9 @@
 			<img src="https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
+	  	<li>
+		<a href="https://www.flickr.com/photos/mathieucarbou/" target="_blank">
+			<img src="https://img.shields.io/badge/flickr-mathieucarbou-ff69b4?logo=flickr&amp;style=flat-square" />
+		</a>
+	</li>
 </ul>
