@@ -116,11 +116,6 @@
 		</a>
 	</li>
 	<li>
-		<a href="https://twitter.com/mathieucarbou" target="_blank">
-			<img src="https://img.shields.io/badge/twitter-mathieucarbou-4ea6e9?logo=twitter&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
 		<a href="https://mathieu.carbou.me/" target="_blank">
 			<img src="https://img.shields.io/badge/tumblr-mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
 		</a>
@@ -128,11 +123,6 @@
 	<li>
 		<a href="https://www.mathieu.photography/" target="_blank">
 			<img src="https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&amp;logoColor=white&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://www.instagram.com/mathieucarbou/" target="_blank">
-			<img src="https://img.shields.io/badge/instagram-mathieucarbou-c7245e?logo=instagram&amp;style=flat-square" />
 		</a>
 	</li>
 </ul>
