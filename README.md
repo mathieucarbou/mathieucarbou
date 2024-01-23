@@ -2,24 +2,25 @@
 
 ## Created and maintained
 
-| **Project**                                                                   | **Language** | **Description**                                                                                  |
-| :---------------------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------------- |
-| [License Maven Plugin](https://github.com/mathieucarbou/license-maven-plugin) |    Maven     | Maven plugin which helps managing license headers in your project source files                   |
-| [Mycila Guice](https://github.com/mathieucarbou/guice)                        |     Java     | Google Guice Extensions                                                                          |
-| [Mycila Pub Sub](https://github.com/mathieucarbou/pubsub)                     |     Java     | In-JVM Event API                                                                                 |
-| [Mycila XML Tool](https://github.com/mathieucarbou/xmltool)                   |     Java     | Manage XML document through a simple fluent API                                                  |
-| [MycilaConfig](https://github.com/mathieucarbou/MycilaConfig)                 |    ESP32     | A simple and efficient config library                                                            |
-| [MycilaESPConnect](https://github.com/mathieucarbou/MycilaESPConnect)         |    ESP32     | Simple & Easy WiFi Manager with Captive Portal for ESP32                                         |
-| [MycilaJSY](https://github.com/mathieucarbou/MycilaJSY)                       |    ESP32     | Arduino / ESP32 library for the JSY-MK-194T single-phase two-way electric energy metering module |
-| [MycilaLogger](https://github.com/mathieucarbou/MycilaLogger)                 |    ESP32     | A simple and efficient logging library for Arduino / ESP32                                       |
-| [YaS☀️lR (Open-Source)](https://github.com/mathieucarbou/YaSolR-OSS)          |    ESP32     | Heat water with your Solar Production Excess!                                                    |
-| [YaS☀️lR (Yet another Solar Router)](https://yasolr.carbou.me)                |    ESP32     | Heat water with your Solar Production Excess!                                                    |
+| **Project**                                                        | **Language** | **Description**                                                                                  |
+| :----------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------------- |
+| [License Maven Plugin](https://oss.carbou.me/license-maven-plugin) |    Maven     | Maven plugin which helps managing license headers in your project source files                   |
+| [Mycila Guice](https://oss.carbou.me/guice)                        |     Java     | Google Guice Extensions                                                                          |
+| [Mycila Pub Sub](https://oss.carbou.me/pubsub)                     |     Java     | In-JVM Event API                                                                                 |
+| [Mycila XML Tool](https://oss.carbou.me/xmltool)                   |     Java     | Manage XML document through a simple fluent API                                                  |
+| [Beelance](https://oss.carbou.me/Beelance)                         |    ESP32     | Autonomous and remotely connected weight scale for beehives 🐝                                   |
+| [MycilaConfig](https://oss.carbou.me/MycilaConfig)                 |    ESP32     | A simple and efficient config library                                                            |
+| [MycilaESPConnect](https://oss.carbou.me/MycilaESPConnect)         |    ESP32     | Simple & Easy WiFi Manager with Captive Portal for ESP32                                         |
+| [MycilaJSY](https://oss.carbou.me/MycilaJSY)                       |    ESP32     | Arduino / ESP32 library for the JSY-MK-194T single-phase two-way electric energy metering module |
+| [MycilaLogger](https://oss.carbou.me/MycilaLogger)                 |    ESP32     | A simple and efficient logging library for Arduino / ESP32                                       |
+| [YaS☀️lR (Open-Source)](https://oss.carbou.me/YaSolR-OSS)          |    ESP32     | Heat water with your Solar Production Excess!                                                    |
+| [YaS☀️lR (Yet another Solar Router)](https://yasolr.carbou.me)     |    ESP32     | Heat water with your Solar Production Excess!                                                    |
 
 ## Maintaining
 
-| **Project**                             | **Language** | **Description**                                                                                                  |
-| :-------------------------------------- | :----------: | :--------------------------------------------------------------------------------------------------------------- |
-| [ESPAsyncWebServer](https://github.com/mathieucarbou/ESPAsyncWebServer) |    ESP32     | WebSocket, SSE, Authentication, Arduino Json 7, File Upload, Static File serving, URL Rewrite, URL Redirect, etc |
+| **Project**                                                  | **Language** | **Description**                                                                                                  |
+| :----------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------------------------------- |
+| [ESPAsyncWebServer](https://oss.carbou.me/ESPAsyncWebServer) |    ESP32     | WebSocket, SSE, Authentication, Arduino Json 7, File Upload, Static File serving, URL Rewrite, URL Redirect, etc |
 
 ## About Me
 
