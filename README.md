@@ -28,15 +28,11 @@
 </h3>
 
 <p align="justify">
-	Currently working at
+	Lead Software Engineer, currently working at
 	<strong>
 		<a href="https://github.com/SoftwareAG">
 			Software AG
 		</a>
-	</strong>
-	as a
-	<strong>
-		Lead Software Engineer
 	</strong>
 	in the
 	<strong>
@@ -94,10 +90,7 @@
 </p>
 
 <p align="justify">
-	<strong>
-		Father
-	</strong>
-	of two awesome kids who are challenging my spare time but still let me push some code&nbsp;😁
+	Father of two awesome kids who are challenging my spare time but still let me push some code&nbsp;😁
 </p>
 
 <h3 align="justify">
