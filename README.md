@@ -75,7 +75,7 @@
 	Creator and maintainer of several
 	<strong>
 		<a href="https://oss.carbou.me/">
-			 Open Source projects
+			 Java Open Source projects and Arduino Libraries
 		</a>
 	</strong>
 	 like the famous Maven License Plugin, and a lot of Google Guice plugins, and I contribute everywhere I can (i.e. MIDI2LR, rclone, redisson, scoop, npm, etc).
