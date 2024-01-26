@@ -30,7 +30,7 @@
 	Hi there&nbsp;👋
 </h3>
 
-I am a passionate developper with more than 20 years of XP in seevral languages, technologies and compagnies.
+I am a passionate developper with more than 20 years of XP in several languages, technologies and compagnies.
 
 <p align="justify">
 	I am currently working as a Lead Software Engineer, at
