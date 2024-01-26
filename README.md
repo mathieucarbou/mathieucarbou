@@ -30,8 +30,10 @@
 	Hi there&nbsp;👋
 </h3>
 
+I am a passionate developper with more than 20 years of XP in diffeernt languages, technologies and compagnies.
+
 <p align="justify">
-	Lead Software Engineer, currently working at
+	I am currently working as a Lead Software Engineer, at
 	<strong>
 		<a href="https://github.com/SoftwareAG">
 			Software AG
