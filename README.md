@@ -14,6 +14,7 @@
 | [MycilaESPConnect](https://oss.carbou.me/MycilaESPConnect)         |    ESP32     | Simple & Easy WiFi Manager with Captive Portal for ESP32                                         |
 | [MycilaJSY](https://oss.carbou.me/MycilaJSY)                       |    ESP32     | Arduino / ESP32 library for the JSY-MK-194T single-phase two-way electric energy metering module |
 | [MycilaLogger](https://oss.carbou.me/MycilaLogger)                 |    ESP32     | A simple and efficient logging library for Arduino / ESP32                                       |
+| [MycilaMQTT](https://oss.carbou.me/MycilaMQTT)                     |    ESP32     | A simple and efficient MQTT helper for Arduino / ESP32 based on bertmelis/espMqttClient          |
 | [MycilaNTP](https://oss.carbou.me/MycilaNTP)                       |    ESP32     | A simple and efficient NTP library for ESP32 / Arduino                                           |
 | [MycilaRelay](https://oss.carbou.me/MycilaRelay)                   |    ESP32     | Arduino / ESP32 library to control Electromagnetic and Solid State Relays                        |
 | [MycilaTaskMonitor](https://oss.carbou.me/MycilaTaskMonitor)       |    ESP32     | Arduino / ESP32 library to monitor task priority and stack high watermark                        |
