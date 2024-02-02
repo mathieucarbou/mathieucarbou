@@ -32,7 +32,7 @@ Hi there&nbsp;👋
 
 I am a passionate developper with more than 20 years of XP in several languages, technologies and compagnies.
 
-I am currently working as a Lead Software Engineer, at **[https://github.com/SoftwareAG](Software AG)** in the **[Terracotta](https://github.com/Terracotta-OSS)** R&D team since 2015 with a lot of smart people.
+I am currently working as a Lead Software Engineer, at **[Software AG](https://github.com/SoftwareAG)** in the **[Terracotta](https://github.com/Terracotta-OSS)** R&D team since 2015 with a lot of smart people.
 We are developing and maintaining Ehcache and Terracotta Store and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
 
 Boostraped the **[Montreal Java User Group](https://www.montreal-jug.org/)** in 2010, which is now one of the biggest JUG over the world.
@@ -60,3 +60,5 @@ You can find me there:
 
 | [![](https://github-readme-stats.vercel.app/api?username=mathieucarbou&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&include_all_commits=true)](https://github.com/mathieucarbou/) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieucarbou&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&include_all_commits=true)](https://github.com/mathieucarbou/) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+&nbsp;
