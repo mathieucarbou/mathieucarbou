@@ -28,119 +28,35 @@
 
 ## About Me
 
-<h3 align="justify">
-	Hi there&nbsp;👋
-</h3>
+Hi there&nbsp;👋
 
 I am a passionate developper with more than 20 years of XP in several languages, technologies and compagnies.
 
-<p align="justify">
-	I am currently working as a Lead Software Engineer, at
-	<strong>
-		<a href="https://github.com/SoftwareAG">
-			Software AG
-		</a>
-	</strong>
-	in the
-	<strong>
-		<a href="https://github.com/Terracotta-OSS">
-			Terracotta
-		</a>
-	</strong>
-	R&amp;D team since 2015 with a lot of smart people. We are developing and maintaining Ehcache and providing clustering and
-	management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a
-	consistency or availability manner.
-</p>
+I am currently working as a Lead Software Engineer, at **[https://github.com/SoftwareAG](Software AG)** in the **[Terracotta](https://github.com/Terracotta-OSS)** R&D team since 2015 with a lot of smart people.
+We are developing and maintaining Ehcache and Terracotta Store and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
 
-<p align="justify">
-	Boostraped the
-	<strong>
-		<a href="https://www.montreal-jug.org/">
-			Montreal Java User Group
-		</a>
-	</strong>
-	in 2010, which is now one of the biggest JUG over the world. My active involvement is ending in 2021 but I am still
-	there on the background.
-</p>
+Boostraped the **[Montreal Java User Group](https://www.montreal-jug.org/)** in 2010, which is now one of the biggest JUG over the world.
+My active involvement is ending in 2021 but I am still there on the background.
 
-<p align="justify">
-	Former organizer of the
-	<strong>
-		<a href="http://www.devoxx4kids.org/quebec/">
-			Devoxx4Kids Quebec
-		</a>
-	</strong>
-	since 2015, which is one of the biggest Devoxx4Kids over the world. Sessions are usually hosting about 100 children
-	over one day. My active involvement is ending in 2021.
-</p>
+Former organizer of the **[Devoxx4Kids Quebec](http://www.devoxx4kids.org/quebec/)** since 2015, which is one of the biggest Devoxx4Kids over the world.
+Sessions are usually hosting about 100 children over one day.
+My active involvement is ending in 2021.
 
-<p align="justify">
-	Enthusiast photographer... I love photography! Feel free to visit my
-	<strong>
-		<a href="https://www.mathieu.photography/">
-			Photography Website.
-		</a>
-	</strong>
-	I wrote several articles regarding neutral density filters, infrared photography and I am sometimes reviewing gear.
-</p>
+Enthusiast photographer... I love photography! Feel free to visit my **[Photography Website](https://www.mathieu.photography/)**.
+I also wrote several articles regarding neutral density filters, infrared photography and I am sometimes reviewing gear.
 
-<p align="justify">
-	Creator and maintainer of several
-	<strong>
-		<a href="https://oss.carbou.me/">
-			Java Open Source projects and Arduino / ESP32 Libraries
-		</a>
-	</strong>
-	like the famous Maven License Plugin, Google Guice plugins, and I contribute everywhere I can (i.e. MIDI2LR, rclone,
-	redisson, scoop, npm, etc).
-</p>
+Creator and maintainer of several **[Java Open Source projects and Arduino / ESP32 Libraries](https://oss.carbou.me/)** like the famous Maven License Plugin, Google Guice plugins, and I contribute everywhere I can (i.e. MIDI2LR, rclone, redisson, scoop, npm, etc).
 
-<p align="justify">
-	Father of two awesome kids who are challenging my spare time but still let me push some code&nbsp;😁
-</p>
+Father of two awesome kids who are challenging my spare time but still let me push some code! 😁
 
-<h3 align="justify">
-	You can find me there:
-</h3>
-<ul align="justify">
-	<li>
-		<a href="https://github.com/mathieucarbou/" target="_blank">
-			<img
-				src="https://img.shields.io/badge/github-mathieucarbou-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://oss.carbou.me" target="_blank">
-			<img src="https://img.shields.io/badge/github-oss-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://www.linkedin.com/in/mathieucarbou/" target="_blank">
-			<img src="https://img.shields.io/badge/linkedin-mathieucarbou-0072B1?logo=linkedin&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://mathieu.carbou.me/" target="_blank">
-			<img
-				src="https://img.shields.io/badge/tumblr-mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://www.mathieu.photography/" target="_blank">
-			<img
-				src="https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&amp;logoColor=white&amp;style=flat-square" />
-		</a>
-	</li>
-	<li>
-		<a href="https://www.flickr.com/photos/mathieucarbou/" target="_blank">
-			<img src="https://img.shields.io/badge/flickr-mathieucarbou-ff69b4?logo=flickr&amp;style=flat-square" />
-		</a>
-	</li>
-</ul>
+You can find me there:
 
-<p align="center">
-	<a href="https://github.com/mathieucarbou/">
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=mathieucarbou&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only&amp;count_private=true&amp;include_all_commits=true" />
-	</a>
-</p>
+- [![](https://img.shields.io/badge/github-mathieucarbou-211F1F?logo=github&logoColor=white&style=flat-square)](https://github.com/mathieucarbou/)
+- [![](https://img.shields.io/badge/github-oss-211F1F?logo=github&logoColor=white&style=flat-square)](https://oss.carbou.me)
+- [![](https://img.shields.io/badge/linkedin-mathieucarbou-0072B1?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mathieucarbou/)
+- [![](https://img.shields.io/badge/tumblr-mathieu.carbou.me-314d69?logo=tumblr&logoColor=white&style=flat-square)](https://mathieu.carbou.me/)
+- [![](https://img.shields.io/badge/website-mathieu.photography-1BC?logo=react&logoColor=white&style=flat-square)](https://www.mathieu.photography/)
+- [![](https://img.shields.io/badge/flickr-mathieucarbou-ff69b4?logo=flickr&style=flat-square)](https://www.flickr.com/photos/mathieucarbou/)
+
+| [![](https://github-readme-stats.vercel.app/api?username=mathieucarbou&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&include_all_commits=true)](https://github.com/mathieucarbou/) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieucarbou&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&include_all_commits=true)](https://github.com/mathieucarbou/) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
