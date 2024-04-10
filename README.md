@@ -49,19 +49,19 @@ Hi there&nbsp;👋
 I am a passionate developper with more than 20 years of XP in several languages, technologies and compagnies.
 
 I am currently working as a Lead Software Engineer, at **[Software AG](https://github.com/SoftwareAG)** in the **[Terracotta](https://github.com/Terracotta-OSS)** R&D team since 2015 with a lot of smart people.
-We are developing and maintaining Ehcache and Terracotta Store and providing clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability manner.
+We develop and maintain Ehcache and Terracotta Store and provide clustering and management solutions for caching and storing huge amount of data efficiently with no downtime, low latency in a consistency or availability mode.
 
 Boostraped the **[Montreal Java User Group](https://www.montreal-jug.org/)** in 2010, which is now one of the biggest JUG over the world.
-My active involvement is ending in 2021 but I am still there on the background.
+My active involvement ending in 2021 when I moved from Canada to France.
 
 Former organizer of the **[Devoxx4Kids Quebec](http://www.devoxx4kids.org/quebec/)** since 2015, which is one of the biggest Devoxx4Kids over the world.
 Sessions are usually hosting about 100 children over one day.
-My active involvement is ending in 2021.
+My active involvement has ended in 2021.
 
 Enthusiast photographer... I love photography! Feel free to visit my **[Photography Website](https://www.mathieu.photography/)**.
 I also wrote several articles regarding neutral density filters, infrared photography and I am sometimes reviewing gear.
 
-Creator and maintainer of several **[Java Open Source projects and Arduino / ESP32 Libraries](https://oss.carbou.me/)** like the famous Maven License Plugin, Google Guice plugins, and I contribute everywhere I can (i.e. MIDI2LR, rclone, redisson, scoop, npm, etc).
+Creator and maintainer of several **[Open Source Projects](https://oss.carbou.me/)** like the famous Maven License Plugin, Google Guice plugins, and I contribute everywhere I can (i.e. MIDI2LR, rclone, redisson, scoop, npm, etc).
 
 Father of two awesome kids who are challenging my spare time but still let me push some code! 😁
 
