@@ -1,14 +1,25 @@
-# Open-Source Projects
+# Project Summary
 
-## Created and maintained
+## Big OSS Projects / Producsts
 
 | **Project**                                                        | **Language** | **Description**                                                                                  |
 | :----------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------------- |
 | [License Maven Plugin](https://oss.carbou.me/license-maven-plugin) |    Maven     | Maven plugin which helps managing license headers in your project source files                   |
+| [Beelance](https://beelance.carbou.me)                             |    ESP32     | Autonomous and remotely connected weight scale for beehives 🐝                                   |
+| [YaS☀️lR (Yet another Solar Router)](https://yasolr.carbou.me)     |    ESP32     | Heat water with your Solar Production Excess!                                                    |
+
+## Libraries (Java)
+
+| **Project**                                                        | **Language** | **Description**                                                                                  |
+| :----------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------------- |
 | [Mycila Guice](https://oss.carbou.me/guice)                        |     Java     | Google Guice Extensions                                                                          |
 | [Mycila Pub Sub](https://oss.carbou.me/pubsub)                     |     Java     | In-JVM Event API                                                                                 |
 | [Mycila XML Tool](https://oss.carbou.me/xmltool)                   |     Java     | Manage XML document through a simple fluent API                                                  |
-| [Beelance](https://oss.carbou.me/Beelance)                         |    ESP32     | Autonomous and remotely connected weight scale for beehives 🐝                                   |
+
+## Libraries (ESP32)
+
+| **Project**                                                        | **Language** | **Description**                                                                                  |
+| :----------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------------- |
 | [MycilaConfig](https://oss.carbou.me/MycilaConfig)                 |    ESP32     | A simple and efficient config library                                                            |
 | [MycilaEasyDisplay](https://oss.carbou.me/MycilaEasyDisplay)       |    ESP32     | Easy to use Arduino / ESP32 library for SH1106, SH1107, SSD1306 OLED I2C displays                |
 | [MycilaESPConnect](https://oss.carbou.me/MycilaESPConnect)         |    ESP32     | Simple & Easy WiFi Manager with Captive Portal for ESP32                                         |
@@ -22,9 +33,8 @@
 | [MycilaTaskManager](https://oss.carbou.me/MycilaTaskManager)       |    ESP32     | Arduino / ESP32 Task Manager Library                                                             |
 | [MycilaTaskMonitor](https://oss.carbou.me/MycilaTaskMonitor)       |    ESP32     | Arduino / ESP32 library to monitor task priority and stack high watermark                        |
 | [MycilaTrial](https://oss.carbou.me/MycilaTrial)                   |    ESP32     | Arduino / ESP32 library to add a trial duration in your app                                      |
-| [YaS☀️lR (Yet another Solar Router)](https://yasolr.carbou.me)      |    ESP32     | Heat water with your Solar Production Excess!                                                    |
 
-## Maintaining
+## Maintained Forks (ESP32)
 
 | **Project**                                                  | **Language** | **Description**                                                                                                  |
 | :----------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------------------------------- |
