@@ -40,7 +40,7 @@ You will find some articles about neutral density filters and infrared photograp
 | [MycilaConfig](https://oss.carbou.me/MycilaConfig)                 |    ESP32     | A simple and efficient config library                                                            |
 | [MycilaDS18](https://oss.carbou.me/MycilaDS18)                     |    ESP32     | ESP32 / Arduino Library for Dallas / Maxim Temperature Integrated Circuits                       |
 | [MycilaEasyDisplay](https://oss.carbou.me/MycilaEasyDisplay)       |    ESP32     | Easy to use Arduino / ESP32 library for SH1106, SH1107, SSD1306 OLED I2C displays                |
-| [MycilaESPConnect](https://oss.carbou.me/MycilaESPConnect)         |    ESP32     | Simple & Easy Network Manager with Captive Portal for ESP32                                         |
+| [MycilaESPConnect](https://oss.carbou.me/MycilaESPConnect)         |    ESP32     | Simple & Easy Network Manager with Captive Portal for ESP32                                      |
 | [MycilaHADiscovery](https://oss.carbou.me/MycilaHADiscovery)       |    ESP32     | Simple and efficient Home Assistant Discovery library for Arduino / ESP32                        |
 | [MycilaJSY](https://oss.carbou.me/MycilaJSY)                       |    ESP32     | Arduino / ESP32 library for the JSY-MK-194T single-phase two-way electric energy metering module |
 | [MycilaLogger](https://oss.carbou.me/MycilaLogger)                 |    ESP32     | A simple and efficient logging library for Arduino / ESP32                                       |
@@ -53,6 +53,7 @@ You will find some articles about neutral density filters and infrared photograp
 | [MycilaTaskMonitor](https://oss.carbou.me/MycilaTaskMonitor)       |    ESP32     | Arduino / ESP32 library to monitor task priority and stack high watermark                        |
 | [MycilaTrafficLight](https://oss.carbou.me/MycilaTrafficLight)     |    ESP32     | ESP32 / Arduino Library for Traffic Light LEDs                                                   |
 | [MycilaTrial](https://oss.carbou.me/MycilaTrial)                   |    ESP32     | Arduino / ESP32 library to add a trial duration in your app                                      |
+| [MycilaUtilities](https://oss.carbou.me/MycilaUtilities)           |    ESP32     | Utils stuff for Arduino / ESP32 like Time, String functions, CircularBuffer, etc                 |
 
 ## Maintained Forks (ESP32)
 
