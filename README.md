@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/61346?v=4" width="112" alt="Mathieu Carbou" />
-
-  # Mathieu Carbou
-
   **Lead Software Engineer @ IBM · Open-source maintainer · ESP32 / Arduino developer · Photographer & astrophotographer**
 
   [![GitHub](https://img.shields.io/badge/GitHub-@mathieucarbou-181717?style=for-the-badge&logo=github)](https://github.com/mathieucarbou)
